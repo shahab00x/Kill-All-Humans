@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Shaders\PositionColor.fx</Source>
+      <Name>Shaders\PositionColor</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Shaders\PositionColor.xnb</Output>
+      <Time>2013-02-23T14:26:55.7762063-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Texture.fx</Source>
+      <Name>Shaders\Texture</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Shaders\Texture.xnb</Output>
+      <Time>2013-02-23T14:27:29.4391317-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\grass.jpg</Source>
+      <Name>Images\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\grass.xnb</Output>
+      <Time>2009-05-05T09:52:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\back.bmp</Source>
+      <Name>Images\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\back.xnb</Output>
+      <Time>2013-02-23T16:47:01.1659671-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\front.bmp</Source>
+      <Name>Images\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\front.xnb</Output>
+      <Time>2013-02-23T16:47:01.1699673-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ground2.bmp</Source>
+      <Name>Images\ground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\ground2.xnb</Output>
+      <Time>2013-02-23T16:47:01.1729675-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\left.bmp</Source>
+      <Name>Images\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\left.xnb</Output>
+      <Time>2013-02-23T16:47:01.1509662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\right.bmp</Source>
+      <Name>Images\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\right.xnb</Output>
+      <Time>2013-02-23T16:47:01.1569665-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\sky.bmp</Source>
+      <Name>Images\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\sky.xnb</Output>
+      <Time>2013-02-23T16:47:01.1619668-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\warninglight.png</Source>
+      <Name>Images\warninglight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\warninglight.xnb</Output>
+      <Time>2013-02-25T00:37:43.1030413-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\windmill.bmp</Source>
+      <Name>Models\windmill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\windmill.xnb</Output>
+      <Time>2013-02-26T22:16:25.6168728-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cf18Colour.jpg</Source>
+      <Name>Models\cf18Colour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\cf18Colour.xnb</Output>
+      <Time>2013-03-06T15:13:46.6469311-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\FBX\launcher.bmp</Source>
+      <Name>Models\FBX\launcher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\FBX\launcher.xnb</Output>
+      <Time>2013-03-09T22:34:10.3718304-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\FBX\rocket.bmp</Source>
+      <Name>Models\FBX\rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\FBX\rocket.xnb</Output>
+      <Time>2013-03-09T22:34:10.3678301-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Bullet__by_Della_Stock.jpg</Source>
+      <Name>Models\Bullet__by_Della_Stock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\Bullet__by_Della_Stock.xnb</Output>
+      <Time>2013-03-14T02:10:39.4875275-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gun.png</Source>
+      <Name>Models\gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\gun.xnb</Output>
+      <Time>2013-03-14T03:31:17.3722387-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\FBX\spaceA.bmp</Source>
+      <Name>Models\FBX\spaceA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\FBX\spaceA.xnb</Output>
+      <Time>2013-04-24T18:36:55.2255559-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\windmillfbx.fbx</Source>
+      <Name>Models\windmillfbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\windmillfbx.xnb</Output>
+      <Time>2013-02-26T16:24:54.4467681-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\windmillfbx_0.xml</Key>
+        <Value>2013-04-25T13:22:34.3795746-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\bigPlaneSphere.fbx</Source>
+      <Name>Models\bigPlaneSphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\bigPlaneSphere.xnb</Output>
+      <Time>2013-03-09T18:49:22.618375-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bigPlaneSphere_0.xml</Key>
+        <Value>2013-04-25T13:22:34.4695797-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\planeSpheres.fbx</Source>
+      <Name>Models\planeSpheres</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\planeSpheres.xnb</Output>
+      <Time>2013-03-09T21:54:10.3795587-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\planeSpheres_0.xml</Key>
+        <Value>2013-04-25T13:22:34.6645909-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\launcher.fbx</Source>
+      <Name>Models\launcher</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\launcher.xnb</Output>
+      <Time>2013-03-09T22:33:46.9914931-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\launcher_0.xml</Key>
+        <Value>2013-04-25T13:22:35.0206112-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fbx\launcher_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\rocket.fbx</Source>
+      <Name>Models\rocket</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\rocket.xnb</Output>
+      <Time>2013-03-09T22:33:46.9934932-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\rocket_0.xml</Key>
+        <Value>2013-04-25T13:22:35.2136223-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fbx\rocket_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\rocketSpheres.fbx</Source>
+      <Name>Models\rocketSpheres</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\rocketSpheres.xnb</Output>
+      <Time>2013-03-10T14:10:59.8619211-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\rocketSpheres_0.xml</Key>
+        <Value>2013-04-25T13:22:35.3446298-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\balloon.fbx</Source>
+      <Name>Models\balloon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\balloon.xnb</Output>
+      <Time>2013-03-20T13:41:25.7782602-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\balloon_0.xml</Key>
+        <Value>2013-04-25T13:22:35.4506358-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\balloonSpheres.fbx</Source>
+      <Name>Models\balloonSpheres</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\balloonSpheres.xnb</Output>
+      <Time>2013-03-20T13:41:25.77526-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\balloonSpheres_0.xml</Key>
+        <Value>2013-04-25T13:22:35.5526417-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\cf18.x</Source>
+      <Name>Models\cf18</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\cf18.xnb</Output>
+      <Time>2013-03-06T15:13:31.9280892-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\cf18_0.xml</Key>
+        <Value>2013-04-25T13:22:35.8226571-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\cf18Colour_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\base.x</Source>
+      <Name>Models\base</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\base.xnb</Output>
+      <Time>2013-02-27T15:27:48.2929052-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\base_0.xml</Key>
+        <Value>2013-04-25T13:22:36.2706827-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\windmill_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\fan.x</Source>
+      <Name>Models\fan</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fan.xnb</Output>
+      <Time>2013-02-27T15:27:47.6928709-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\fan_0.xml</Key>
+        <Value>2013-04-25T13:22:36.3146853-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\windmill_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\glock.x</Source>
+      <Name>Models\glock</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\glock.xnb</Output>
+      <Time>2013-03-14T03:31:16.7632039-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\glock_0.xml</Key>
+        <Value>2013-04-25T13:22:36.3426869-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\gun_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bullet.x</Source>
+      <Name>Models\bullet</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\bullet.xnb</Output>
+      <Time>2013-03-14T22:37:00.2327181-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bullet_0.xml</Key>
+        <Value>2013-04-25T13:22:36.6507045-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\Bullet__by_Della_Stock_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bulletSphere.x</Source>
+      <Name>Models\bulletSphere</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\bulletSphere.xnb</Output>
+      <Time>2013-03-14T22:38:26.8056697-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bulletSphere_0.xml</Key>
+        <Value>2013-04-25T13:22:37.2147367-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Sounds\balloon_popping.wav</Source>
+      <Name>Sounds\balloon_popping</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\balloon_popping.xnb</Output>
+      <Time>2013-03-20T14:34:16.4496122-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gunshot.wav</Source>
+      <Name>Sounds\gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\gunshot.xnb</Output>
+      <Time>2013-03-20T14:39:08.6383245-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pl_step.wav</Source>
+      <Name>Sounds\pl_step</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\pl_step.xnb</Output>
+      <Time>2013-04-10T23:34:23.6246287-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-03-24T16:36:52.7842616-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\heightmap.raw</Source>
+      <Name>Images\heightmap</Name>
+      <Importer>TerrainPipeline</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\heightmap.xnb</Output>
+      <Time>2013-04-25T13:22:28.4122333-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\windmillfbx.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\windmillfbx_0.xml</Output>
+      <Time>2013-02-26T16:24:54.4467681-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bigPlaneSphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bigPlaneSphere_0.xml</Output>
+      <Time>2013-03-09T18:49:22.618375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\planeSpheres.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\planeSpheres_0.xml</Output>
+      <Time>2013-03-09T21:54:10.3795587-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\launcher.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\launcher_0.xml</Output>
+      <Time>2013-03-09T22:33:46.9914931-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fbx\launcher.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fbx\launcher_0.xnb</Output>
+      <Time>2013-03-09T22:34:10.3718304-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rocket.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\rocket_0.xml</Output>
+      <Time>2013-03-09T22:33:46.9934932-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fbx\rocket.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fbx\rocket_0.xnb</Output>
+      <Time>2013-03-09T22:34:10.3678301-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rocketSpheres.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\rocketSpheres_0.xml</Output>
+      <Time>2013-03-10T14:10:59.8619211-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\balloon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\balloon_0.xml</Output>
+      <Time>2013-03-20T13:41:25.7782602-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\balloonSpheres.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\balloonSpheres_0.xml</Output>
+      <Time>2013-03-20T13:41:25.77526-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cf18.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\cf18_0.xml</Output>
+      <Time>2013-03-06T15:13:31.9280892-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cf18Colour.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\cf18Colour_0.xnb</Output>
+      <Time>2013-03-06T15:13:46.6469311-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\base.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\base_0.xml</Output>
+      <Time>2013-02-27T15:27:48.2929052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\windmill.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\windmill_0.xnb</Output>
+      <Time>2013-02-26T22:16:25.6168728-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fan.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\fan_0.xml</Output>
+      <Time>2013-02-27T15:27:47.6928709-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\glock.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\glock_0.xml</Output>
+      <Time>2013-03-14T03:31:16.7632039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gun.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\gun_0.xnb</Output>
+      <Time>2013-03-14T03:31:17.3722387-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bullet_0.xml</Output>
+      <Time>2013-03-14T22:37:00.2327181-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Bullet__by_Della_Stock.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\Bullet__by_Della_Stock_0.xnb</Output>
+      <Time>2013-03-14T02:10:39.4875275-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bulletSphere.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bulletSphere_0.xml</Output>
+      <Time>2013-03-14T22:38:26.8056697-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\WoodPlanks_Color.jpg</Source>
+      <Name>Models\WoodPlanks_Color</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\WoodPlanks_Color.xnb</Output>
+      <Time>2013-04-25T20:14:02.7886708-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crate.fbx</Source>
+      <Name>Models\crate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\crate.xnb</Output>
+      <Time>2013-04-26T20:35:04.3966456-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\crate_0.xml</Key>
+        <Value>2013-04-26T20:35:14.4642214-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\WoodPlanks_Color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\crate_spheres.FBX</Source>
+      <Name>Models\crate_spheres</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\crate_spheres.xnb</Output>
+      <Time>2013-04-26T01:30:31.1787622-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\crate_spheres_0.xml</Key>
+        <Value>2013-04-26T01:30:54.5691-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\crate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\crate_0.xml</Output>
+      <Time>2013-04-26T20:35:04.3966456-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crate_spheres.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\crate_spheres_0.xml</Output>
+      <Time>2013-04-26T01:30:31.1787622-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Shahab\Documents\3dsMax\export\crate.fbm\WoodPlanks_Color.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\WoodPlanks_Color_0.xnb</Output>
+      <Time>2013-04-26T01:30:50.9818949-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\crate.wav</Source>
+      <Name>Sounds\crate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\crate.xnb</Output>
+      <Time>2013-04-26T01:33:28.003876-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Particle.fx</Source>
+      <Name>Effects\Particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Effects\Particle.xnb</Output>
+      <Time>2013-04-26T11:36:30.0023679-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Particle.png</Source>
+      <Name>Images\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\Particle.xnb</Output>
+      <Time>2013-04-26T11:34:26.7373176-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ParticleColors2.png</Source>
+      <Name>Images\ParticleColors2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\ParticleColors2.xnb</Output>
+      <Time>2013-04-26T11:22:50.6755051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ParticleColors.jpg</Source>
+      <Name>Images\ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\ParticleColors.xnb</Output>
+      <Time>2013-04-26T11:40:48.0991302-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Scary-Horror.wav</Source>
+      <Name>Sounds\Scary-Horror</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\Scary-Horror.xnb</Output>
+      <Time>2013-04-26T13:39:10.0973413-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\dryfire_pistol.wav</Source>
+      <Name>Sounds\dryfire_pistol</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\dryfire_pistol.xnb</Output>
+      <Time>2013-04-26T15:07:45.8213833-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\generic_reload.wav</Source>
+      <Name>Sounds\generic_reload</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\generic_reload.xnb</Output>
+      <Time>2013-04-26T15:07:45.8183831-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ambience.wav</Source>
+      <Name>Sounds\ambience</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\ambience.xnb</Output>
+      <Time>2013-04-26T18:13:25.5675403-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\clock-ticking.wav</Source>
+      <Name>Sounds\clock-ticking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\clock-ticking.xnb</Output>
+      <Time>2013-04-26T18:19:59.6320796-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Futurama.wav</Source>
+      <Name>Sounds\Futurama</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\Futurama.xnb</Output>
+      <Time>2013-04-26T18:27:38.9753525-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gamestartup.mp3</Source>
+      <Name>Sounds\gamestartup</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\gamestartup.xnb</Output>
+      <Extra>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\gamestartup.wma</Extra>
+      <Time>2013-04-26T18:38:13.0226179-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\haha.wav</Source>
+      <Name>Sounds\haha</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\haha.xnb</Output>
+      <Time>2013-04-26T19:28:14.5562958-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\goodbadugly.wav</Source>
+      <Name>Sounds\goodbadugly</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\goodbadugly.xnb</Output>
+      <Time>2013-04-26T20:25:33.1399716-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fem1.fbx</Source>
+      <Name>Models\fem1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fem1.xnb</Output>
+      <Time>2013-04-29T11:37:24.6540582-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\fem1_0.xml</Key>
+        <Value>2013-04-29T11:38:04.8703585-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\woman1006_diff_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\fem1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\fem1_0.xml</Output>
+      <Time>2013-04-29T11:37:24.6540582-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ff1.FBX</Source>
+      <Name>Models\ff1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\ff1.xnb</Output>
+      <Time>2013-04-27T12:01:27.3218206-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ff1_0.xml</Key>
+        <Value>2013-04-27T12:01:31.7080715-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\FBX\56BD1CB7\ff1.fbm\woman1006_diff_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ff1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ff1_0.xml</Output>
+      <Time>2013-04-27T12:01:27.3218206-04:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\56BD1CB7\ff1.fbm\woman1006_diff.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\FBX\56BD1CB7\ff1.fbm\woman1006_diff_0.xnb</Output>
+      <Time>2013-04-27T12:01:31.4260554-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\woman1006_diff.jpg</Source>
+      <Name>Models\woman1006_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\woman1006_diff.xnb</Output>
+      <Time>2013-04-27T12:05:42.3044048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\f_scream1.wav</Source>
+      <Name>Sounds\f_scream1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\f_scream1.xnb</Output>
+      <Time>2013-04-27T12:41:38.5837369-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\walking.wav</Source>
+      <Name>Sounds\walking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\walking.xnb</Output>
+      <Time>2013-04-28T00:38:21.4693613-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\blood.png</Source>
+      <Name>Images\blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Images\blood.xnb</Output>
+      <Time>2013-04-28T01:09:25.153958-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\headshot2.wav</Source>
+      <Name>Sounds\headshot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\headshot2.xnb</Output>
+      <Time>2013-04-28T01:34:07.8707645-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\tick.wav</Source>
+      <Name>Sounds\tick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\tick.xnb</Output>
+      <Time>2013-04-28T01:50:51.3271589-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Revenge\townassault_rcs_sc09_02_t1E.wav</Source>
+      <Name>Sounds\Revenge\townassault_rcs_sc09_02_t1E</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\Revenge\townassault_rcs_sc09_02_t1E.xnb</Output>
+      <Time>2013-04-28T02:05:01.2967744-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Revenge\townassault_rcs_sc09_03_t1E.wav</Source>
+      <Name>Sounds\Revenge\townassault_rcs_sc09_03_t1E</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\Revenge\townassault_rcs_sc09_03_t1E.xnb</Output>
+      <Time>2013-04-28T02:05:01.3387768-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Revenge\townassault_rcs_sc09_05_t2E.wav</Source>
+      <Name>Sounds\Revenge\townassault_rcs_sc09_05_t2E</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\Revenge\townassault_rcs_sc09_05_t2E.xnb</Output>
+      <Time>2013-04-28T02:05:01.2907741-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Revenge\townassault_rcs_sc10_02_t3E.wav</Source>
+      <Name>Sounds\Revenge\townassault_rcs_sc10_02_t3E</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\Revenge\townassault_rcs_sc10_02_t3E.xnb</Output>
+      <Time>2013-04-28T02:05:01.2947743-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fem1_sphere.fbx</Source>
+      <Name>Models\fem1_sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\fem1_sphere.xnb</Output>
+      <Time>2013-04-29T03:06:12.7347248-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\fem1_sphere_0.xml</Key>
+        <Value>2013-04-29T03:06:15.7168954-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\fem1_sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\fem1_sphere_0.xml</Output>
+      <Time>2013-04-29T03:06:12.7347248-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\FBX\woman1006_diff.jpg</Source>
+      <Name>Models\FBX\woman1006_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\FBX\woman1006_diff.xnb</Output>
+      <Time>2013-04-29T03:17:24.0421214-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Downloads\woman1006_diff.jpg</Source>
+      <Name>Models\Downloads\woman1006_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Models\Downloads\woman1006_diff.xnb</Output>
+      <Time>2013-04-29T11:27:16.0962507-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Shahab\Downloads\Free Woman 1006~ Rigged human model\woman1006_diff.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\woman1006_diff_0.xnb</Output>
+      <Time>2007-08-22T03:23:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\I feel good.mp3</Source>
+      <Name>Sounds\I feel good</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\I feel good.xnb</Output>
+      <Extra>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\I feel good.wma</Extra>
+      <Time>2013-04-29T13:13:38.3042921-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\patmat.mp3</Source>
+      <Name>Sounds\patmat</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\patmat.xnb</Output>
+      <Extra>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\patmat.wma</Extra>
+      <Time>2013-04-29T13:20:54.2352259-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menu.mp3</Source>
+      <Name>Sounds\menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\menu.xnb</Output>
+      <Extra>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\Sounds\menu.wma</Extra>
+      <Time>2013-04-29T14:11:55.111298-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Shahab\Documents\cs 6430\final project\Q3\Q3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Shahab\Documents\cs 6430\final project\Q3\TerrainPipeline\bin\x86\Debug\TerrainPipeline.dll</Key>
+        <Value>2013-04-25T13:22:33.2465098-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-26T15:08:07.3284172-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

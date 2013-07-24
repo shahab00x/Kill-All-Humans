@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MGHWinBaseCode">
+</Property><Property Name="Solution File" Value="C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\MGHWinBaseCode.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\MGHWinBaseCode.suo">
+</Property><Property Name="Date" Value="Saturday, February 23, 2013">
+</Property><Property Name="Time" Value="14:22 PM">
+</Property><Property Name="Solution" Value="MGHWinBaseCode">
+</Property><Property Name="Solution File" Value="C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\MGHWinBaseCode.sln">
+</Property><Property Name="Date" Value="Saturday, February 23, 2013">
+</Property><Property Name="Time" Value="14:22:55 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MGHWinBaseCode.sln" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\MGHWinBaseCode.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MGHWinBaseCode.suo" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\MGHWinBaseCode.suo">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="MGHWinBaseCode.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="MGHWinBaseCode.csproj" Description="Project file successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\MGHWinBaseCode.csproj">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="Camera.cs" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\Camera.cs">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="Program.cs" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="Game1.cs" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\Game1.cs">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="Game.ico" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="GameThumbnail.png" Description="File successfully backed up as C:\Users\Shahab\Documents\cs 6430\Alaki\MGHWinBaseCode\MGHWinBaseCode\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="MGHWinBaseCode.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MGHWinBaseCode" Source="MGHWinBaseCode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MGHWinBaseCode.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MGHWinBaseCode.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="MGHWinBaseCode.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCode" Source="MGHWinBaseCode.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="grass.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="PositionColor.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Texture.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="MGHWinBaseCodeContent" Source="Content\MGHWinBaseCodeContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

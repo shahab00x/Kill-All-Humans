@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGHWinBaseCode", "MGHWinBaseCode.csproj", "{3B374964-51F8-4E5C-86AF-442AC935396A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGHWinBaseCodeContent", "Content\MGHWinBaseCodeContent.contentproj", "{F0297E5B-A32C-44ED-938B-2C54DAC2680F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillAllHumansHeightMapImporterPipeline", "..\TerrainPipeline\KillAllHumansHeightMapImporterPipeline.csproj", "{2D080E5A-E548-4B69-89D1-58600EA2EF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillAllHumansHeightMapImporterRuntime", "TerrainRuntime\KillAllHumansHeightMapImporterRuntime.csproj", "{46A2A7B8-B5C1-43D6-87E0-C28AE99B3810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B374964-51F8-4E5C-86AF-442AC935396A}.Debug|x86.ActiveCfg = Debug|x86
+		{3B374964-51F8-4E5C-86AF-442AC935396A}.Debug|x86.Build.0 = Debug|x86
+		{3B374964-51F8-4E5C-86AF-442AC935396A}.Release|x86.ActiveCfg = Release|x86
+		{3B374964-51F8-4E5C-86AF-442AC935396A}.Release|x86.Build.0 = Release|x86
+		{F0297E5B-A32C-44ED-938B-2C54DAC2680F}.Debug|x86.ActiveCfg = Debug|x86
+		{F0297E5B-A32C-44ED-938B-2C54DAC2680F}.Release|x86.ActiveCfg = Release|x86
+		{2D080E5A-E548-4B69-89D1-58600EA2EF50}.Debug|x86.ActiveCfg = Debug|x86
+		{2D080E5A-E548-4B69-89D1-58600EA2EF50}.Debug|x86.Build.0 = Debug|x86
+		{2D080E5A-E548-4B69-89D1-58600EA2EF50}.Release|x86.ActiveCfg = Debug|x86
+		{2D080E5A-E548-4B69-89D1-58600EA2EF50}.Release|x86.Build.0 = Debug|x86
+		{46A2A7B8-B5C1-43D6-87E0-C28AE99B3810}.Debug|x86.ActiveCfg = Debug|x86
+		{46A2A7B8-B5C1-43D6-87E0-C28AE99B3810}.Debug|x86.Build.0 = Debug|x86
+		{46A2A7B8-B5C1-43D6-87E0-C28AE99B3810}.Release|x86.ActiveCfg = Debug|x86
+		{46A2A7B8-B5C1-43D6-87E0-C28AE99B3810}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
